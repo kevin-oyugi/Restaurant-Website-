@@ -585,6 +585,10 @@ button {
   margin-bottom: 8px;
   color: #ccc;
 }
+#footer .container .footer_tag p a {
+  color: #ccc;
+  text-decoration: none;
+}
 
 #footer .container .footer-bar {
   width: 100%;
